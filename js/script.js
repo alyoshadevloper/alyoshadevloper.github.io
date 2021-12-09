@@ -50,9 +50,9 @@ window.addEventListener('load', function (e) {
     }
 
     
-
+    start()
     function start() {
-          int = setInterval(nexts, 3000);
+        return  int = setInterval(nexts, 3000);
     }
 
     function stop() {
